@@ -1,0 +1,17 @@
+.photo__list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 0 auto;
+
+  &-item {
+    width: 244px;
+    margin: 10px 15px;
+  }
+}
+
+.card--text {
+  font-size: 18px;
+  color: #455;
+}

@@ -1,0 +1,10 @@
+.modal__window {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 650;
+  background-color: antiquewhite;
+  border: 1px solid #455;
+  box-shadow: 24;
+}
